@@ -1,0 +1,38 @@
+#software
+
+operating system
+Funtoo/Gentoo
+
+shell
+Bash
+
+display server
+x11
+
+window manager
+dwm
+
+terminal
+st
+
+text editor
+Neovim
+
+audio player
+Cmus
+
+video player
+Mplayer
+
+web server
+Lighttpd
+
+web browser
+dwb
+
+IRC client
+irssi
+
+mail client
+Mutt
+
